@@ -1,0 +1,22 @@
+.scheda{
+    color: black;
+    background-color: gray;
+    margin: 10px;
+    width: 100%;
+    margin: 10px auto;
+
+    
+}
+
+.titolo{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-bottom: -20px;
+    color: gold;
+}
+
+img{
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+}
