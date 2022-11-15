@@ -37,6 +37,6 @@ const stampa = document.getElementById("dom");
 
 for(let i=0; i<strutturadati.length; i++) {
     
-    stampa.innerHTML += `<div class="scheda col-4"> <h1 class="titolo"><strong>${strutturadati[i].nome}</strong></h1> <br> ${strutturadati[i].ruolo} <br> <img src="${strutturadati[i].foto}">  <br> </div>`;
+    stampa.innerHTML += `<div class="scheda col-5"> <h1 class="titolo"><strong>${strutturadati[i].nome}</strong></h1> <br> ${strutturadati[i].ruolo} <br> <img src="${strutturadati[i].foto}">  <br> </div>`;
     
 }
